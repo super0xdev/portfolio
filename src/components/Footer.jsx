@@ -14,25 +14,25 @@ const Footer = () => {
                     <div className="flex items-center gap-[12px]">
                         <div className="w-[35px] h-[35px] rounded-full flex justify-center items-center">
                             <a href="mailto:devlord0625@gmail.com">
-                                <SiGmail className="text-3xl"/>
+                                <SiGmail className="text-3xl" />
                             </a>
                         </div>
 
                         <div className="w-[35px] h-[35px] rounded-full flex justify-center items-center">
-                            <a href="https://github.com/devlord0625">
-                                <FaGithub className="text-3xl"/>
+                            <a href="https://github.com/super0xdev">
+                                <FaGithub className="text-3xl" />
                             </a>
                         </div>
 
                         <div className="w-[35px] h-[35px] rounded-full flex justify-center items-center">
                             <a href="https://t.me/RussellMasato">
-                                <FaTelegram className="text-3xl"/>
+                                <FaTelegram className="text-3xl" />
                             </a>
                         </div>
 
                         <div className="w-[35px] h-[35px] rounded-full flex justify-center items-center">
                             <a href="https://www.linkedin.com/in/russell-masato-165377271/">
-                                <FaLinkedin className="text-3xl"/>
+                                <FaLinkedin className="text-3xl" />
                             </a>
                         </div>
                     </div>
