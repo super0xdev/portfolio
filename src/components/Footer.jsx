@@ -19,12 +19,6 @@ const Footer = () => {
                         </div>
 
                         <div className="w-[35px] h-[35px] rounded-full flex justify-center items-center">
-                            <a href="https://github.com/super0xdev">
-                                <FaGithub className="text-3xl" />
-                            </a>
-                        </div>
-
-                        <div className="w-[35px] h-[35px] rounded-full flex justify-center items-center">
                             <a href="https://t.me/RussellMasato">
                                 <FaTelegram className="text-3xl" />
                             </a>
