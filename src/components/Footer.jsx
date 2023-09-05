@@ -19,7 +19,7 @@ const Footer = () => {
                         </div>
 
                         <div className="w-[35px] h-[35px] rounded-full flex justify-center items-center">
-                            <a href="https://t.me/Russell_Masato">
+                            <a href="https://t.me/Russell0xdev">
                                 <FaTelegram className="text-3xl" />
                             </a>
                         </div>
