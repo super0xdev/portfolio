@@ -14,6 +14,7 @@ import p14 from "./assets/project14.png";
 import p15 from "./assets/project15.png";
 import p16 from "./assets/project16.png";
 import p17 from "./assets/project17.png";
+import p18 from './assets/project18.png';
 
 export const skills_list = [
   { path : "./assets/SK1.svg" },
@@ -69,6 +70,12 @@ export const projects = [
     image: p1,
     tags: ["mine", "fullstack"],
     live_url: "https://movie-flix-ashy.vercel.app/",
+  },
+  {
+    name: "Fushionist",
+    image: p18,
+    tags: ["mine", "fullstack"],
+    live_url: "https://fusionist.io",
   },
   {
     name      : "InfinityBit",
